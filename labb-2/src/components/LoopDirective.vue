@@ -46,7 +46,7 @@ function removeTask(task) {
     align-items: center;
 }
 ul{
-    border: 2px solid;
+    border: 1.5px solid;
     padding:25px;
 }
 li{
@@ -70,8 +70,8 @@ button{
     cursor: pointer;
 }
 textarea{
-    width:15em;
     border-color: #2F1B41;
+    font-size: 1em;
 }
 
 </style>
